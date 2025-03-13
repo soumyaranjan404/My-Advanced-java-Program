@@ -1,0 +1,35 @@
+
+Mar 04, 2025 13:12:13.85 NEW SESSION
+Mar 04, 2025 13:12:14.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 04, 2025 13:12:14.11 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Mar 07, 2025 09:52:34.25 NEW SESSION
+Mar 07, 2025 09:52:34.39 [2840:18148:0307/095234.219:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 09:52:40.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2025 09:52:40.87 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 07, 2025 09:53:01.32 [2840:1708:0307/095301.324:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:01.69 [2840:1708:0307/095301.691:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:02.59 [2840:1708:0307/095302.599:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:02.75 [2840:1708:0307/095302.756:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:02.77 [2840:1708:0307/095302.771:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:02.80 [2840:1708:0307/095302.803:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:02.82 [2840:18148:0307/095302.820:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 09:53:03.33 [2840:1708:0307/095303.338:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:03.35 [2840:1708:0307/095303.354:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 07, 2025 09:53:44.54 [2840:18148:0307/095344.542:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 09:55:17.37 [2840:18148:0307/095517.371:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 09:58:51.54 [2840:18148:0307/095851.540:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 10:05:04.60 [2840:18148:0307/100504.604:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 07, 2025 14:04:52.28 NEW SESSION
+Mar 07, 2025 14:04:52.36 [9872:14756:0307/140452.231:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 14:04:58.10 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2025 14:04:58.20 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 07, 2025 14:05:16.48 [9872:14756:0307/140516.488:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 14:06:04.95 [9872:14756:0307/140604.951:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 14:07:36.75 [9872:14756:0307/140736.756:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 14:10:18.09 [9872:14756:0307/141018.095:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 14:17:26.67 [9872:14756:0307/141726.677:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 10, 2025 14:25:28.22 NEW SESSION
+Mar 10, 2025 14:25:29.98 [16800:10688:0310/142526.911:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

@@ -1,0 +1,10 @@
+package com.configu;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@ComponentScan({"com.car","com.Driver"})
+@Configuration
+public class Config {
+
+}

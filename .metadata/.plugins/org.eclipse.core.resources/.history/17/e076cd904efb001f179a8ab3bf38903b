@@ -1,0 +1,15 @@
+package Array;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Stack<String> s = new Stack<>();
+		s.push("ram");
+		s.push("syama");
+		s.push("gobindo");
+		
+;	
+				System.out.println(s);
+	}
+
+}

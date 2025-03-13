@@ -1,0 +1,17 @@
+package Array;
+
+public class Test {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> l= new ArrayList<>();
+		l.add(10);
+		l.add(20);
+		l.add(30);
+		l.add(10);
+		l.add(50);
+		l.set(2, 60);
+		l.set(2, 70);
+		System.out.println(l);
+	}
+
+}

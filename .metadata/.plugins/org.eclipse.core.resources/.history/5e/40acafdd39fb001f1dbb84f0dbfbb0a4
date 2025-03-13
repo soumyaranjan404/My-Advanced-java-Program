@@ -1,0 +1,16 @@
+package com.springIoc;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class ShowMessage {
+	
+	
+	private Person person;
+	
+	public void getMsg() {
+		System.out.println("Hello How Are you:"+person.getPerson());
+	}
+
+}
